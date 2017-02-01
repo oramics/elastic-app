@@ -1,0 +1,41 @@
+.App {
+  width: 40em;
+  margin: 2em auto;
+}
+
+.CreateAudio {
+  border-top: 1px solid #666;
+  padding-top: 1em;
+}
+
+.OneButton a {
+  display: block;
+  background-color: #efefef;
+  width: 4em;
+  height: 4em;
+  text-align: center;
+  border-radius: 4em;
+}
+
+.AudioPlayer-info {
+  font-size: 60%;
+}
+
+.fragments {
+}
+.fragments .Media {
+  margin: 1em 0;
+}
+
+.Media {
+  display: flex;
+  align-items: flex-start;
+}
+
+.Media-figure {
+  margin-right: 1em;
+}
+
+.Media-body {
+  flex: 1;
+}
